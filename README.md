@@ -17,6 +17,3 @@
 2. Don't be afraid to undo a move if it doesn't work out.
 3. Take breaks if you get stuck, and come back to the game later with fresh eyes.
 4. You can always shuffle, if you get stuck
-
-Live: https://kostad02.github.io/Sliding-Puzzle-Game-JS/ <br>
-Enjoy playing the sliding puzzle game and challenge yourself to beat your high score!
